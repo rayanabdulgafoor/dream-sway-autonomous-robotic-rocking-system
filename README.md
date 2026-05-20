@@ -2,7 +2,7 @@
 
 Autonomous electromechanical rocking system designed to regulate oscillatory motion using sensor feedback and closed-loop control.
 
-![Hero Image](/dream-sway-autonomous-robotic-rocking-system/assets/photos/dream-sway-hero-shot.png)
+![Hero Image](/assets/photos/dream-sway-hero-shot.png)
 
 ---
 ## Full Project Documentation
