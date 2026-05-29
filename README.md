@@ -36,12 +36,25 @@ The project explores closed-loop motion control using IMU-based orientation sens
 
 ## Tech Stack / Hardware
 
-ESP32 | MPU6050 IMU | PID Control | Embedded Systems | Fusion 360 | DC Motor System | Arduino IDE
+**Embedded Systems & Control :** ESP32 | MPU6050 IMU | PID Motion Control | Encoder Feedback System | Wi-Fi / Bluetooth Connectivity | Arduino IDE
+
+
+**Electronics :** Custom Double-Sided PCB | KiCAD | Current-Sensing Homing Circuit | Potentiometer-Based Amplitude Control | Timed Shutoff Control | DC Motor Driver
+
+**Mechanical & CAD :** Autodesk Fusion 360 | DFMA (Design for Manufacturing & Assembly) | Center of Gravity (CG) Analysis | Finite Element Analysis (FEA) | Mass-Shifting Mechanism | 36-Part Plywood Structural Assembly
+
+
+**Actuation & Motion :** DC Servo Actuation System | Linear Motion Mechanism | Oscillation Regulation System | Human-Interactive Motion Control
+
+
+**Digital Fabrication :** CNC Milling (ShopBot) | Zünd Digital Cutter | Laser Cutting | 3D Printing | PCB Milling & Soldering
+
+**Materials :** 18 mm Plywood | Aluminium Extrusion | Acrylic | 3D-Printed Components
+
+
+**Validation & Testing :** Closed-Loop Stability Testing | Oscillation & Damping Analysis | Runtime Validation (100+ Cycles) | Load Testing up to 130 kg | Mechanical Alignment & Assembly Validation
 
 ---
-
-
-
 
 ## License
 
